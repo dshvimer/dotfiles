@@ -1,0 +1,12 @@
+alias ll="ls -l"
+
+alias dc="docker-compose"
+alias dcu="dc up"
+alias dcr="dc run"
+
+alias hr="heroku run"
+alias hrc="heroku run rails c -a"
+alias hl="heroku logs -a"
+alias hlt="heroku logs --tail -a"
+
+alias mux="tmuxinator"
